@@ -1,5 +1,10 @@
+Bluetooth BLE mobile app - receiving images sent over bluetooth LE  
 
+![myimage](https://github.com/syed-dce/BLE-mobile-app/blob/main/DemoPics/a.png)  
 
+![myimage](https://github.com/syed-dce/BLE-mobile-app/blob/main/DemoPics/b.png)  
+
+![myimage](https://github.com/syed-dce/BLE-mobile-app/blob/main/DemoPics/c.png)  
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
